@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "json:server": "json-server --watch db.json"
   },
   "author": "",
@@ -10,6 +11,5 @@
   "dependencies": {
     "json-server": "^0.17.4"
   },
-  "devDependencies": {},
   "description": ""
 }
